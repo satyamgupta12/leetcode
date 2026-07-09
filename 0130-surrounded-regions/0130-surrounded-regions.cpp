@@ -4,21 +4,14 @@ public:
         int r=board.size();
         int c=board[0].size();
         vector<vector<int>>vis(r,vector<int>(c,0));
-        for (int i=0;i<c;i++){
-           
-            if(board[0][i]=='O' && !vis[0][i]){
-                dfs(0,i,board,vis);
+        for (int i=0;i<r;i++){
+           for(int j=0;j<c;j++){
+            if(i==0||j==0||i==r-1||j==c-1){
+                if(board[i][j]=='O' && !vis[i][j]){
+                    dfs(i,j,board,vis);
+                }
             }
-            if(board[r-1][i]=='O' && !vis[r-1][i])
-                dfs(r-1,i,board,vis); 
         }
-        for (int j=0;j<r;j++){
-           
-            if(board[j][0]=='O' && !vis[j][0]){
-                dfs(j,0,board,vis);
-            }
-            if(board[j][c-1]=='O' && !vis[j][c-1])
-                dfs(j,c-1,board,vis);
         } 
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
