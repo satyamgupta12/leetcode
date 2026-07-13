@@ -1,0 +1,37 @@
+class Solution {
+public:
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        //create a adjacency list 
+        //perform topological sort and then return it.
+        vector<vector<int>>adj(numCourses);
+        
+        for(auto it: prerequisites){
+            adj[it[1]].push_back(it[0]);  //adjacency list created
+        }
+        vector<int>ind(numCourses,0);
+        for(int i=0;i<numCourses;i++){    // indegree created
+            for(auto it:adj[i]){
+                ind[it]++;
+            }
+        }
+        queue<int>q;
+        for(int i=0;i<numCourses;i++){
+            if(ind[i]==0) q.push(i);
+        }
+        vector<int>topo;
+        while(!q.empty()){
+            int node=q.front();
+            topo.push_back(node);
+            q.pop();
+            for(auto it : adj[node]){
+                ind[it]--;
+                if(ind[it]==0) q.push(it);
+            }
+
+        }
+        if(topo.size() == numCourses)
+            return topo;
+
+    return {};
+    }
+};
