@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/satyamgupta12/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/satyamgupta12/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/satyamgupta12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/satyamgupta12/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/satyamgupta12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/satyamgupta12/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/satyamgupta12/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/satyamgupta12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/satyamgupta12/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/satyamgupta12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/satyamgupta12/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/satyamgupta12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/satyamgupta12/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Array
 |  |
@@ -40,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/satyamgupta12/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/satyamgupta12/leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
