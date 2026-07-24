@@ -11,18 +11,20 @@
  */
 class Solution {
 public:
-    int flag=0;
+    //optimal code
     bool isBalanced(TreeNode* root) {
-        balanced(root);
-        if(flag==1) return false;
+        
+        if(balanced(root)==-1) return false;
         return true;
     }
     int balanced(TreeNode* root){
         if(!root) return 0;
         int left = balanced(root->left);
+        if(left==-1) return -1;
         int right=balanced(root->right);
+        if(right==-1) return -1;
         if(abs(left-right)>1)
-            flag=1;
+            return -1;
         return (1+max( left,right)); 
         
     }
