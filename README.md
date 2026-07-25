@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/satyamgupta12/leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
