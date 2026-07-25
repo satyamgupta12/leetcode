@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/satyamgupta12/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/satyamgupta12/leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/satyamgupta12/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 | [1020-number-of-enclaves](https://github.com/satyamgupta12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -77,12 +79,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/satyamgupta12/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
