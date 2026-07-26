@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/satyamgupta12/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/satyamgupta12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/satyamgupta12/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/satyamgupta12/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/satyamgupta12/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
