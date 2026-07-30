@@ -10,58 +10,26 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head){
-         ListNode *prev=NULL,*cur=head,*next;
-        if(head==NULL || head->next==NULL) return head;
-
-        while(cur!=NULL){
-            next=cur->next;
-            cur->next=prev;
-            prev=cur;
-            cur=next;
-        }
-        return prev;
-    }
-    ListNode* addTwoNumbers(ListNode* head1, ListNode* head2) {
-        // ListNode* head1=reverse(l1);
-        // ListNode* head2=reverse(l2);
-
-        int carry=0;
-        ListNode* curr=NULL,*temp;
-        while(head1 || head2){
-            if (head1 && head2){
-                int sum=head1->val+head2->val+ carry;
-                carry=sum/10;
-                int n=sum%10;
-                temp = new ListNode(n);
-                temp->next=curr;
-                head1=head1->next;
-                head2=head2->next;
+    ListNode* addTwoNumbers(ListNode* list1, ListNode* list2) {
+       
+        int sum=0,carry=0;
+        ListNode dummy(-1);
+        ListNode *temp=&dummy;
+        while (list1 || list2 || carry){
+            sum=carry;
+            if(list1){
+               sum += list1->val ;
+               list1=list1->next;
             }
-            else if(head1){
-                int sum=head1->val+carry;
-                carry=sum/10;
-                int n=sum%10;
-                temp = new ListNode(n);
-                temp->next=curr;
-                head1=head1->next;
+            if(list2){
+                sum += list2->val ;
+                 list2=list2->next;
             }
-            else {
-                int sum=head2->val+carry;
                 carry=sum/10;
-                int n=sum%10;
-                temp = new ListNode(n);
-                temp->next=curr;
-                head2=head2->next;
-            }
-            curr=temp;
+                sum=sum%10;
+            temp->next=new ListNode(sum);
+            temp=temp->next;
         }
-        if(carry){
-            ListNode* temp = new ListNode(carry);
-                temp->next=curr;
-                curr=temp;
-        }
-        curr=reverse(curr);
-        return curr;
-    }
-};
+        return dummy.next;
+    } 
+};     
