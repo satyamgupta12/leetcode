@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyamgupta12/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 | [1020-number-of-enclaves](https://github.com/satyamgupta12/leetcode/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/satyamgupta12/leetcode/tree/master/1046-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/satyamgupta12/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
