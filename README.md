@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/satyamgupta12/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/satyamgupta12/leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/satyamgupta12/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/satyamgupta12/leetcode/tree/master/0704-binary-search) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyamgupta12/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyamgupta12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/satyamgupta12/leetcode/tree/master/0704-binary-search) |
 ## Heap (Priority Queue)
