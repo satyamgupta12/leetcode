@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             mpp[fruits[i]]++;
 
-            while(mpp.size()>2){
+            if(mpp.size()>2){//with if condition here its lazy sliding window
                 mpp[fruits[l]]--;
                 if(mpp[fruits[l]]==0) mpp.erase(fruits[l]);
                 l++;
