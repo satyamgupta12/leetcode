@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamgupta12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/satyamgupta12/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satyamgupta12/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamgupta12/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/satyamgupta12/leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/satyamgupta12/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/satyamgupta12/leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
