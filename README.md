@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/satyamgupta12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/satyamgupta12/leetcode/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyamgupta12/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satyamgupta12/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/satyamgupta12/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/satyamgupta12/leetcode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/satyamgupta12/leetcode/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -179,8 +181,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/satyamgupta12/leetcode/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
