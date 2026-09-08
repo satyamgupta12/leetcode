@@ -195,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/satyamgupta12/leetcode/tree/master/1472-design-browser-history) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/satyamgupta12/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
