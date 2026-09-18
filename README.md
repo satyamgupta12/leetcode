@@ -203,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/satyamgupta12/leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/satyamgupta12/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/satyamgupta12/leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1789-primary-department-for-each-employee](https://github.com/satyamgupta12/leetcode/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
